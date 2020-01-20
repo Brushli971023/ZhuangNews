@@ -1,2 +1,2 @@
-include ':app', ':basemvvm'
+include ':app', ':basemvvm', ':home-model', ':video-model', ':headlines_model', ':user-model'
 rootProject.name='ZhuangNews'
